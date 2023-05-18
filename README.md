@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="stegeqi.github.io/">
+    <a href="tegeqi.github.io/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println('Hello,World!')&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
@@ -15,7 +15,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=steGeqi&theme=gruvbox&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://cdn.jsdelivr.net/gh/steGeqi/steGeqi/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=steGeqi&theme=react&hide_border=true" alt="Activity"/>
+
+
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/steGeqi/steGeqi/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />-->
 
 <div align="center">
 
