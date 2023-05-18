@@ -33,3 +33,17 @@
   <img  src="https://github-profile-trophy.vercel.app/?username=steGeqi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MineCar-YOLOv5&repo=MineCar_api&theme=dark&bg_color=121212&hide_border=true" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IDPminiprogram&repo=miniProgram_serve&theme=dark&bg_color=121212&hide_border=true" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=steGeqi&repo=operation&theme=dark&bg_color=121212&hide_border=true" />
+
+
+
+
+
+
+
+
+
