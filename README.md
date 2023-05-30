@@ -23,7 +23,6 @@
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=steGeqi&repo=operation&theme=dark&bg_color=121212&hide_border=true"  alt=""/>
     </a>
 </div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=steGeqi&theme=react&hide_border=true" alt="Activity"/>
 
 </div>
 
@@ -32,11 +31,11 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=steGeqi&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"  alt=""/>
 </div>
 
-[//]: # (<div>)
+[//]: # "<div>"
 
-[//]: # (    <img  src="https://github-profile-trophy.vercel.app/?username=steGeqi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"  alt=""/>)
+[//]: # "    <img  src="https://github-profile-trophy.vercel.app/?username=steGeqi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"  alt=""/>"
 
-[//]: # (</div>)
+[//]: # "</div>"
 
 <div align="center">
 
@@ -72,7 +71,6 @@
 ![Webstorm Badge](https://img.shields.io/badge/Webstorm-0078D6?logo=Webstorm&logoColor=fff&style=flat)
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-075793?logo=windows&logoColor=fff&style=flat)
 </div>
 
  
