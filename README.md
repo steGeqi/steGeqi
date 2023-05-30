@@ -33,7 +33,7 @@
 
 <div>
 
-   <img  src="https://github-profile-trophy.vercel.app/?username=steGeqi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"  alt=""/>"
+   <img  src="https://github-profile-trophy.vercel.app/?username=steGeqi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"  alt=""/>
 
 </div>
 
