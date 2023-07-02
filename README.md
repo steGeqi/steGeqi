@@ -41,7 +41,7 @@
 
 ##### 💪 正在学习
 
-![Go Badge](https://img.shields.io/badge/Go-1572B6?logo=go&logoColor=fff&style=flat)
+![Go Badge](https://img.shields.io/badge/Go-1572B6?logo=go&logoColor=fff&style=flat)![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 <!-- ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat) -->
 
 ##### 📚 学习过
@@ -60,7 +60,6 @@
 ![Pytorch Badge](https://img.shields.io/badge/Pytorch-ffffff?logo=pytorch&logoColor=d25437&style=flat)
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-ffffff?logo=Tensorflow&logoColor=e98a1f&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 
 ##### 🧰 常用的工具
