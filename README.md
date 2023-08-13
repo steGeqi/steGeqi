@@ -41,7 +41,7 @@
 
 ##### 💪 正在学习
 
-![Go Badge](https://img.shields.io/badge/Go-1572B6?logo=go&logoColor=fff&style=flat)![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Go Badge](https://img.shields.io/badge/Go-1572B6?logo=go&logoColor=fff&style=flat)![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)  
 <!-- ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat) -->
 
 ##### 📚 学习过
