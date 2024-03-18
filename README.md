@@ -31,7 +31,7 @@
 
 <br />
 
-- 🔭 I’m currently working on [CIDP](https://www.cidp.edu.cn/)~
+- 🔭 I’m currently studying on [CIDP](https://www.cidp.edu.cn/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - ⛺️ I love to share, and currently share technical articles at [Myblog](https://feng-hetang.gitee.io).
