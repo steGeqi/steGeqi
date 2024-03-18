@@ -35,20 +35,14 @@
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - ⛺️ I love to share, and currently share technical articles at [Myblog](https://feng-hetang.gitee.io).It's my private site,you're welcome to come! ~~
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=steGeqi&theme=gruvbox&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D">
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
 </picture>
-<img align="left" src="https://streak-stats.demolab.com?user=steGeqi&theme=gruvbox&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D" width="45%">
-<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=steGeqi&repo=landsilde&theme=vue-dark&bg_color=121212" width="45%" >
-
-<img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=steGeqi&layout=compact&theme=vue-dark&bg_color=121212&hide=html" width="45%" >
-<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=steGeqi&repo=operation&theme=vue-dark&bg_color=121212" width="45%" >
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=steGeqi&show_icons=true&theme=merko" width="45%">
-<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=MineCar-YOLOv5&repo=MineCar-web&theme=vue-dark&bg_color=121212" width="45%" >
-<img align="right"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?&username=IDPminiprogram&repo=miniProgram_serve&theme=vue-dark&bg_color=121212" width="45%"/>
 
 
 
