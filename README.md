@@ -28,6 +28,13 @@
 <img align="right" alt="GIF" src="./1.png" width="400"/>
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
+<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=steGeqi&repo=landsilde&theme=vue-dark&bg_color=121212" width="50%" >
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=steGeqi&repo=operation&theme=vue-dark&bg_color=121212" width="50%" >
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=MineCar-YOLOv5&repo=MineCar-web&theme=vue-dark&bg_color=121212" width="50%" >
+
+<img align="right"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?&username=IDPminiprogram&repo=miniProgram_serve&theme=vue-dark&bg_color=121212" width="50%"/>
 <br />
 
 - 🔭 I’m currently working on [CIDP](https://www.cidp.edu.cn/)~
@@ -61,13 +68,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=steGeqi&theme=gruvbox&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=steGeqi&repo=landsilde&theme=vue-dark&bg_color=121212" width="50%" >
-
-<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=steGeqi&repo=operation&theme=vue-dark&bg_color=121212" width="50%" >
-
-<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=MineCar-YOLOv5&repo=MineCar-web&theme=vue-dark&bg_color=121212" width="50%" >
-
-<img align="right"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?&username=IDPminiprogram&repo=miniProgram_serve&theme=vue-dark&bg_color=121212" width="50%"/>
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=steGeqi&layout=compact&theme=vue-dark&bg_color=121212&hide=html" width="50%" >
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=steGeqi&show_icons=true&theme=merko">
