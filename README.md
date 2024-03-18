@@ -12,9 +12,8 @@
   <img src="https://img.shields.io/badge/-Three.js-092E20?style=flat&logo=threedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
-  
 </div>
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Golang-218bea?style=flat&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
@@ -26,9 +25,7 @@
 
 <!-- 背景图 -->
 <br />
-<br />
-<img align="right" alt="GIF" src="./1.png" width="200"/>
-
+<img align="right" alt="GIF" src="./1.png" width="400"/>
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
