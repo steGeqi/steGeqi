@@ -1,78 +1,79 @@
+<p align="center">
+  <h1 height="200px" align="center">
+    <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"> I'm <a href=“feng-hetang.gitee.io”>Geqi</a>
+  </h1>
+   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
+</p>
 <div align="center">
- <div align="center">
-    <a href="stegeqi.github.io">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println('Welcome!')&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-<a href="https://stegeqi.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue"  alt=""/></a> <img src="https://komarev.com/ghpvc/?username=steGeqi&label=  访问量   &color=0e75b6&style=flat" alt="访问量统计" />
+  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Three.js-092E20?style=flat&logo=threedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
+  <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
+  
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Golang-218bea?style=flat&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
+  <img src="https://img.shields.io/badge/-Vite-3C873A?style=flat&logo=Vite&logoColor=white">
+</div>
+
+<!-- 背景图 -->
+<br />
+<br />
+<img align="right" alt="GIF" src="./1.png" width="200"/>
+
+<!-- 关于我 -->
+<h2 height="200px" align="center">🎉 About Me</h2>
+<br />
+
+- 🔭 I’m currently working on [CIDP](https://www.cidp.edu.cn/)~
+- 🏋 I'm passionate about fitness, and it pays off ~
+- 👨‍💻 I'm passionate about coding and have been developing my skill ~
+- ⛺️ I love to share, and currently share technical articles at [Myblog](https://feng-hetang.gitee.io).It's my private site,you're welcome to come! ~~
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=steGeqi&theme=gruvbox&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<div style="width:100%;display: flex">
-    <a href="https://github.com/steGeqi/landsilde">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=steGeqi&repo=landsilde&theme=dark&bg_color=121212&hide_border=true"  alt=""/>
-    </a>
-    <a href="https://github.com/MineCar-YOLOv5/MineCar_api">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MineCar-YOLOv5&repo=MineCar_api&theme=dark&bg_color=121212&hide_border=true"  alt=""/>
-    </a>
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=steGeqi&repo=landsilde&theme=vue-dark&bg_color=121212" width="50%" >
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=steGeqi&repo=operation&theme=vue-dark&bg_color=121212" width="50%" >
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=MineCar-YOLOv5&repo=MineCar-web&theme=vue-dark&bg_color=121212" width="50%" >
+
+<img align="right"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?&username=IDPminiprogram&repo=miniProgram_serve&theme=vue-dark&bg_color=121212" width="50%"/>
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=steGeqi&layout=compact&theme=vue-dark&bg_color=121212&hide=html" width="50%" >
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=steGeqi&show_icons=true&theme=merko">
 </div>
-<div style="width:100%;display: flex">
-    <a href="https://github.com/IDPminiprogram/miniProgram_serve">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IDPminiprogram&repo=miniProgram_serve&theme=dark&bg_color=121212&hide_border=true"  alt=""/>
-    </a>
-    <a href="https://github.com/steGeqi/operation">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=steGeqi&repo=operation&theme=dark&bg_color=121212&hide_border=true"  alt=""/>
-    </a>
 </div>
-
-</div>
-
-<div style="display: flex;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=steGeqi&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"  alt=""/>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=steGeqi&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"  alt=""/>
-</div>
-
-<div>
-
-   <img  src="https://github-profile-trophy.vercel.app/?username=steGeqi&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"  alt=""/>
-
-</div>
-
-<div align="center">
-
-##### 💪 正在学习
-
-![Go Badge](https://img.shields.io/badge/Go-1572B6?logo=go&logoColor=fff&style=flat)![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)  
-<!-- ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat) -->
-
-##### 📚 学习过
-
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
-
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-
-##### 🧠 计划学习
-
-![Pytorch Badge](https://img.shields.io/badge/Pytorch-ffffff?logo=pytorch&logoColor=d25437&style=flat)
-![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-ffffff?logo=Tensorflow&logoColor=e98a1f&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-
-##### 🧰 常用的工具
-
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Docker Badge](https://img.shields.io/badge/docker-0078D6?logo=docker&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/ubuntu-782762?logo=ubuntu&logoColor=de4815&style=flat)
-![Webstorm Badge](https://img.shields.io/badge/Webstorm-0078D6?logo=Webstorm&logoColor=fff&style=flat)
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-</div>
-
- 
-
-
 
